@@ -20,6 +20,8 @@
     </nav>
 
     <h1>Hello !</h1>
+    <p>Bienvenue, dans le monde de PHP.</p>
+    
 </body>
 
 </html>
