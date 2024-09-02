@@ -4,7 +4,11 @@
     padding: 0;
 }
 
-nav a:last-of-type {
+nav a:first-of-type {
+    background-color: transparent;
+}
+
+nav a {
     text-decoration: none;
     color: white;
     padding: 10px;
@@ -13,7 +17,7 @@ nav a:last-of-type {
     transition: all .8s ease-in-out;
 }
 
-nav a:last-of-type:hover {
+nav a:hover {
     background-color: white;
     color: black;
 }
